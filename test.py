@@ -1,4 +1,4 @@
 def foo():
-	return "foo print"
+	return "A"
 print ("Hellloooworlld")
 print (foo())
