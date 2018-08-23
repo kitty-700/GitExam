@@ -1,4 +1,4 @@
 def foo():
-	return "B"
+  return "resolved twice"
 print ("Hellloooworlld")
 print (foo())
