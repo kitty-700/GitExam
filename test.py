@@ -1,4 +1,4 @@
 def foo():
-	return "B"
+	return "master"
 print ("Hellloooworlld")
 print (foo())
